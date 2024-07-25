@@ -1,10 +1,10 @@
 Included is some of the source code used in Aperture Aware Lens Design.
 
 The code relies on the following libraries:
-    - jax
-    - numpy
-    - tqdm
-    - plotly
+* jax
+* numpy
+* tqdm
+* plotly
 
 # dependencies
 They can be installed with the command:
