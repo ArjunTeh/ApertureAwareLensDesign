@@ -36,4 +36,4 @@ import dlt
 Zemax files are from <https://www.lens-designs.com/>
 
 ## Citation
-If you use this code, please cite our paper (citation included in the project website).
+If you use this code, please cite [our paper](https://imaging.cs.cmu.edu/aperture_aware_lens_design/).
